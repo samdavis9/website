@@ -2526,7 +2526,7 @@ figcaption {
 .work-image {
   text-align: center;
   background-color: #f4f4f4;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+  background-image: url("images/background-image.svg");
   background-position: 50%;
   background-size: cover;
   flex-direction: column;
@@ -2547,7 +2547,7 @@ figcaption {
 }
 
 .work-image.cc-work-1 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a403522d467a0303580_castle%20h.jpg");
+  background-image: url("images/castle%20h.jpg");
   background-size: cover;
   border: 4px solid #000;
   border-radius: 0;
@@ -2555,7 +2555,7 @@ figcaption {
 }
 
 .work-image.cc-work-2 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a411e440fa68aa0518d_jorge.PNG");
+  background-image: url("images/jorge.PNG");
   background-position: 50% 30%;
   background-size: cover;
   border: 4px solid #000;
@@ -2563,7 +2563,7 @@ figcaption {
 }
 
 .work-image.cc-work-4 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a42e6dd535639f71407_tahoe.jpg");
+  background-image: url("images/tahoe.jpg");
   background-position: 50% 20%;
   background-size: cover;
   border: 4px solid #000;
@@ -2571,24 +2571,24 @@ figcaption {
 }
 
 .work-image.cc-work-3 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a4084c52be69284bf79_brandon%20dawkins.jpg");
+  background-image: url("images/brandon%20dawkins.jpg");
   background-size: cover;
   border: 4px solid #000;
   box-shadow: 10px 11px 5px #0003;
 }
 
 .work-image.cc-work-5 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a419525b782bc486fc5_mia%20tran.jpg");
+  background-image: url("images/mia%20tran.jpg");
   border: 4px solid #000;
   box-shadow: 9px 12px 5px #0003;
 }
 
 .work-image.cc-work-6 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712f2b216290d1fdcc08cc_friends.jpg");
+  background-image: url("images/friends.jpg");
 }
 
 .work-image.cc-work-7 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a4041a90877a2a1f60e_fruitvale.jpeg");
+  background-image: url("images/fruitvale.jpeg");
   background-position: 50% 0;
   background-repeat: repeat-x;
   background-size: cover;
@@ -2597,13 +2597,13 @@ figcaption {
 }
 
 .work-image.cc-work-8 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a4035e636fd17c3ab09_kyla.jpg");
+  background-image: url("images/kyla.jpg");
   border: 4px solid #000;
   box-shadow: 8px 11px 5px #0003;
 }
 
 .work-image.cc-work-9 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a40cd9b79f092440f8d_gavel.JPG");
+  background-image: url("images/gavel.JPG");
   background-repeat: no-repeat;
   background-size: 520px;
   background-attachment: scroll;
@@ -2612,33 +2612,33 @@ figcaption {
 }
 
 .work-image.cc-work-10 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a41bc815391d7e4954f_youth%20vote.jpg");
+  background-image: url("images/youth%20vote.jpg");
   border: 4px solid #000;
   box-shadow: 9px 11px 5px #0003;
 }
 
 .work-image.cc-work-11 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a405e9da6781c5712f2_alysse.jpg");
+  background-image: url("images/alysse.jpg");
   background-position: 50% 0;
   border: 4px solid #000;
   box-shadow: 9px 11px 5px #0003;
 }
 
 .work-image.cc-work-12 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a41c10ae33ad2be6b58_patrice.JPG");
+  background-image: url("images/patrice.JPG");
   border: 4px solid #000;
   box-shadow: 9px 10px 5px #0003;
 }
 
 .work-image.cc-work-13 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a404baa208ec0d928d4_denia%20sign.jpg");
+  background-image: url("images/denia%20sign.jpg");
   background-position: 70% 0;
   border: 4px solid #000;
   box-shadow: 8px 10px 5px #0003;
 }
 
 .work-image.cc-work-14 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a40c332006b9b8843f7_ahmad.jpg");
+  background-image: url("https://images/ahmad.jpg");
   background-position: 60% 30%;
   background-size: auto;
   border: 4px solid #000;
@@ -2646,20 +2646,20 @@ figcaption {
 }
 
 .work-image.cc-work-15 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69713c32ff1744fdaa8537dd_Screenshot%202026-01-21%20125029.png");
+  background-image: url("images/Screenshot%202026-01-21%20125029.png");
   border: 4px solid #000;
   display: flex;
   box-shadow: 8px 11px 5px #0003;
 }
 
 .work-image.cc-work-16 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69713d0fef5ced650df92573_Screenshot%202026-01-21%20125419.png");
+  background-image: url("images/Screenshot%202026-01-21%20125419.png");
   border: 4px solid #000;
   box-shadow: 8px 11px 5px #0003;
 }
 
 .work-image.cc-work-17 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712b11afad2c04cfff4e93_forum.png");
+  background-image: url("images/forum.png");
   background-position: 100% 100%;
   background-size: 100% 100%;
   border: 4px solid #000;
@@ -2668,7 +2668,7 @@ figcaption {
 
 .work-image.logo1 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af208e7f3074f0826a90_Yes-on-Y-Oakland-campaign-logo.jpg");
+  background-image: url("images/yes-on-y.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 0;
@@ -2676,7 +2676,7 @@ figcaption {
 
 .work-image.logo2 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af2059df8e7fbc35e889_logo%20green%20bg.JPG");
+  background-image: url("images/logo%20green%20bg.JPG");
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 0;
@@ -2684,7 +2684,7 @@ figcaption {
 
 .work-image.logo4 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af204029c5b8c58cabe0_logo.jpg");
+  background-image: url("images/logo.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2693,7 +2693,7 @@ figcaption {
 
 .work-image.logo5 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af2036dee6a3303ddd0a_lerma.png");
+  background-image: url("images/lerma.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 0;
@@ -2701,7 +2701,7 @@ figcaption {
 
 .work-image.logo6 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af20c2ee2f21bab6f006_logo%20header.jpg");
+  background-image: url("images/logo%20header.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 0;
@@ -2709,7 +2709,7 @@ figcaption {
 
 .work-image.logo7 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af20ec0a18e76130f532_logo%20fous.png");
+  background-image: url("images/logo%20fous.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 0;
@@ -2717,7 +2717,7 @@ figcaption {
 
 .work-image.logo8 {
   background-color: #c6ffad;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6977af20946c49e9c49e04a0_WolfflogoFINrgb.png");
+  background-image: url("images/WolfflogoFINrgb.png");
   background-repeat: no-repeat;
   background-size: contain;
   margin-bottom: 0;
@@ -3137,7 +3137,7 @@ figcaption {
 
 .image {
   text-align: center;
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a4078a1e6ee369f09cb_fremont%20field.png");
+  background-image: url("images/fremont%20field.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -3149,7 +3149,7 @@ figcaption {
 }
 
 .image-2 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a41b50cce8f6ce21fc3_balanced%20budget.png");
+  background-image: url("images/balanced%20budget.png");
   background-position: 0 0;
   background-size: auto;
   border: 2px solid #000;
@@ -3157,7 +3157,7 @@ figcaption {
 }
 
 .image-3 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/697813640a6466f7ef8ce37f_Screenshot%202026-01-03%20210829.png");
+  background-image: url("images/Screenshot%202026-01-03%20210829.png");
   background-position: 0 0;
   background-size: auto;
   border: 2px solid #000;
@@ -3174,7 +3174,7 @@ figcaption {
 }
 
 .image-4 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a415d786739f4f04ffe_what%20i%20wish%20ppl%20knew.png");
+  background-image: url("images/what%20i%20wish%20ppl%20knew.png");
   background-position: 0 0;
   background-size: auto;
   border: 2px solid #000;
@@ -3182,19 +3182,19 @@ figcaption {
 }
 
 .image-5 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/6978133e311d3f02c3baa321_gsv.png");
+  background-image: url("images/gsv.png");
   background-position: 0 0;
   background-size: auto;
 }
 
 .image-6 {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/69712a415d786739f4f04ffe_what%20i%20wish%20ppl%20knew.png");
+  background-image: url("images/what%20i%20wish%20ppl%20knew.png");
   background-position: 0 0;
   background-size: auto;
 }
 
 .image-3-copy {
-  background-image: url("https://cdn.prod.website-files.com/697117004ebb634abd40b25a/697813640a6466f7ef8ce37f_Screenshot%202026-01-03%20210829.png");
+  background-image: url("images/Screenshot%202026-01-03%20210829.png");
   background-position: 0 0;
   background-size: auto;
   border: 2px solid #000;
