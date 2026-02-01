@@ -383,21 +383,21 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 20px;
-  font-size: 38px;
+  font-size: 36px;
   line-height: 44px;
 }
 
 h2 {
   margin-top: 20px;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 36px;
   cursor: pointer;
 }
 
 h3 {
   margin-top: 20px;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 h4 {
@@ -2091,25 +2091,25 @@ body {
 h1 {
   margin-top: 20px;
   margin-bottom: 15px;
-  font-size: 44px;
+  font-size: 36px;
   font-weight: 400;
-  line-height: 62px;
+  line-height: 40px;
 }
 
 h2 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 400;
-  line-height: 50px;
+  line-height: 36px;
 }
 
 h3 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 400;
-  line-height: 46px;
+  line-height: 24px;
 }
 
 h4 {
@@ -2280,8 +2280,8 @@ figcaption {
   object-fit: fill;
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 48px;
-  line-height: 80px;
+  font-size: 36px;
+  line-height: 44px;
 }
 
 .paragraph-tiny {
@@ -3128,15 +3128,15 @@ figcaption {
   text-align: left;
   margin-left: 60px;
   margin-right: 60px;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 .heading {
   text-align: left;
-  margin-top: 60px;
+  margin-top: 0;
   margin-bottom: 0;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .image {
@@ -3236,7 +3236,7 @@ figcaption {
 
 .header-1 {
   margin-bottom: 0;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 30px;
 }
 
@@ -3293,8 +3293,8 @@ figcaption {
   }
 
   .heading-jumbo {
-    font-size: 56px;
-    line-height: 70px;
+    font-size: 36px;
+    line-height: 44px;
   }
 
   .section.cc-contact {

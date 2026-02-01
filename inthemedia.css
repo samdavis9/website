@@ -389,7 +389,7 @@ h1 {
 
 h2 {
   margin-top: 20px;
-  font-size: 32px;
+  font-size: 30px;
   line-height: 36px;
   cursor: pointer;
 }
@@ -2099,9 +2099,9 @@ h1 {
 h2 {
   margin-top: 10px;
   margin-bottom: 10px;
-  font-size: 36px;
+  font-size: 30px;
   font-weight: 400;
-  line-height: 50px;
+  line-height: 36px;
 }
 
 h3 {
@@ -2864,7 +2864,7 @@ figcaption {
 }
 
 .about-head-text-wrap {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 
 .hi-there-heading {
@@ -3124,8 +3124,8 @@ figcaption {
   text-align: left;
   margin-left: 60px;
   margin-right: 60px;
-  font-size: 24px;
-  line-height: 30px;
+  font-size: 20px;
+  line-height: 24px;
 }
 
 .heading {

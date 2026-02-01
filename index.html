@@ -18,14 +18,17 @@
 </script>
 
 <script type="text/javascript">
-function toggleRow(c) {
+function toggleRow(c, i) {
 	const elements = document.querySelectorAll(c);
+	const btn = document.getElementById(i);
 	for (let i = 0; i < elements.length; i++) {
 		const element = elements[i];
 		if (element.style.display === 'none' || element.style.display === '') {
 			element.style.display = 'block';
+			btn.textContent = '˅';
 		} else {
 			element.style.display = 'none';
+			btn.textContent = '>';
 		}
 	}
 }
@@ -49,7 +52,7 @@ IN THE MEDIA
 </a>
 </nav>
 <div class="menu-button w-nav-button">
-<img src="images/697117014ebb634abd40b2e2_menu-icon.png" width="22" alt="" class="menu-icon"/>
+<img src="images/697117014ebb634abd40b2e2_menu-icon.png" width="12" alt="" class="menu-icon"/>
 </div>
 </div>
 </div>
@@ -93,7 +96,7 @@ Coaching and Support for Candidates and Elected Officials:
 
 <div id="w-node-_9acec555-0aa0-7f82-c5e2-0b71eb647912-474335eb">
 <div class="container work-description">
-<h2 class="heading" onclick="toggleRow('.firstRow')">
+<h2 class="heading" onclick="toggleRow('.firstRow', 'firstRowButton')">
 <ul><li><strong>
 <em>
 Campaign Strategy &amp; Execution
@@ -140,7 +143,7 @@ Sam&#x27;s campaign for School Board energized the grassroots, and won against m
 
 
 <div id="w-node-_22513738-6dde-3679-f587-f51a474335ed-474335eb"><div class="container work-description">
-<h2 class="heading" onclick="toggleRow('.secondRow')">
+<h2 class="heading" onclick="toggleRow('.secondRow', 'secondRowButton')">
 <ul><li><strong><em>
 Campaign Treasurer &amp; Fundraising
 </em></strong>
@@ -169,7 +172,7 @@ Experienced campaign treasurer for all your California ethics compliance and FPP
 
 
 <div id="w-node-_9e30ce3b-b5e6-3123-9b3d-79d6dbd56289-474335eb"><div class="container work-description">
-<h2 class="heading" onclick="toggleRow('.thirdRow')">
+<h2 class="heading" onclick="toggleRow('.thirdRow', 'thirdRowButton')">
 <ul><li><strong><em>
 Leadership &amp; Governance Coaching
 </em></strong>
@@ -208,7 +211,7 @@ Clear communication in moments of crisis and controversy
 
 
 <div id="w-node-ddb97e82-899c-e3e3-39c8-62a24a84c526-474335eb"><div class="container work-description">
-<h2 class="heading" onclick="toggleRow('.fourthRow')">
+<h2 class="heading" onclick="toggleRow('.fourthRow', 'fourthRowButton')">
 <ul><li><strong><em>
 Community Engagement
 </em></strong>
@@ -264,7 +267,7 @@ Organizing town halls with local leaders to create momentum for policy change
 
 
 <div id="w-node-_2d29fe9a-9f1d-09ca-b516-c1b73b6c3ce0-474335eb"><div class="container work-description">
-<h2 class="heading" onclick="toggleRow('.fifthRow')">
+<h2 class="heading" onclick="toggleRow('.fifthRow', 'fifthRowButton')">
 <ul><li><strong>
 <em>
 Database &amp; Dashboard Development
