@@ -2460,7 +2460,7 @@ figcaption {
 
 .work-experience-grid {
   grid-column-gap: 30px;
-  grid-row-gap: 30px;
+  grid-row-gap: 0;
   grid-template: "."
                  "Area"
                  / 1fr 1fr 1fr 1fr;
@@ -2500,7 +2500,7 @@ figcaption {
   justify-content: center;
   align-items: stretch;
   height: 460px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   text-decoration: none;
   display: flex;
 }
@@ -2638,7 +2638,8 @@ figcaption {
   background-image: url("images/yes-on-y.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .work-image.logo2 {
@@ -2646,7 +2647,8 @@ figcaption {
   background-image: url("images/logo%20green%20bg.JPG");
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .work-image.logo4 {
@@ -2655,7 +2657,8 @@ figcaption {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .work-image.logo5 {
@@ -2663,7 +2666,8 @@ figcaption {
   background-image: url("images/lerma.png");
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .work-image.logo6 {
@@ -2671,7 +2675,8 @@ figcaption {
   background-image: url("images/logo%20header.jpg");
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .work-image.logo7 {
@@ -2679,7 +2684,8 @@ figcaption {
   background-image: url("images/logo%20fous.png");
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .work-image.logo8 {
@@ -2687,7 +2693,8 @@ figcaption {
   background-image: url("images/WolfflogoFINrgb.png");
   background-repeat: no-repeat;
   background-size: contain;
-  margin-bottom: 0;
+  margin-bottom: 30px;
+  height: 200px;
 }
 
 .project-name-link {
@@ -3327,16 +3334,9 @@ figcaption {
     margin-right: 0;
   }
 
-  .work-experience-grid {
-    grid-template: ". ."
-                   ". ."
-                   / 1fr 1fr;
-  }
-
   .works-grid {
     flex-direction: column;
     align-items: stretch;
-    display: flex;
   }
 
   .carrer-headline-wrap {
@@ -3344,7 +3344,7 @@ figcaption {
   }
 
   .work-image {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .contact {
@@ -3514,12 +3514,13 @@ figcaption {
   }
 
   .work-experience-grid {
-    flex-direction: column;
-    align-items: center;
+    grid-template: "."
+                   "Area"
+                   / 1fr 1fr;
   }
 
   .work-position-wrap {
-    margin-bottom: 40px;
+    margin-bottom: 0px;
   }
 
   .project-name-link {
@@ -3639,6 +3640,7 @@ figcaption {
   .work-position-wrap-copy-copy {
     margin-bottom: 0;
   }
+  
 }
 
 @media screen and (max-width: 479px) {
