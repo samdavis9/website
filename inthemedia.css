@@ -1927,40 +1927,6 @@ textarea.w-input, textarea.w-select {
   position: static;
 }
 
-@media screen and (max-width: 991px) {
-  .w-nav[data-collapse="medium"] .w-nav-menu {
-    display: none;
-  }
-
-  .w-nav[data-collapse="medium"] .w-nav-button {
-    display: block;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .w-nav[data-collapse="small"] .w-nav-menu {
-    display: none;
-  }
-
-  .w-nav[data-collapse="small"] .w-nav-button {
-    display: block;
-  }
-
-  .w-nav-brand {
-    padding-left: 10px;
-  }
-}
-
-@media screen and (max-width: 479px) {
-  .w-nav[data-collapse="tiny"] .w-nav-menu {
-    display: none;
-  }
-
-  .w-nav[data-collapse="tiny"] .w-nav-button {
-    display: block;
-  }
-}
-
 .w-tabs {
   position: relative;
 }
@@ -3530,10 +3496,6 @@ figcaption {
     text-align: left;
     width: 90%;
     max-width: 470px;
-  }
-
-  .container {
-    text-align: center;
   }
 
   .heading-jumbo {
