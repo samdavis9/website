@@ -388,7 +388,7 @@ h1 {
 }
 
 h2 {
-  margin-top: 20px;
+  margin-top: 10px;
   font-size: 30px;
   line-height: 36px;
   cursor: pointer;
@@ -3510,6 +3510,20 @@ figcaption {
   .heading-jumbo-small {
     font-size: 30px;
     line-height: 52px;
+  }
+
+  h2 {
+    margin-top: 0px;
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  .header3 {
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 16px;
+    line-height: 20px;
   }
 
   .rich-text {
