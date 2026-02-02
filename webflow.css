@@ -3337,6 +3337,7 @@ figcaption {
   .works-grid {
     flex-direction: column;
     align-items: stretch;
+	display: flex;
   }
 
   .carrer-headline-wrap {
